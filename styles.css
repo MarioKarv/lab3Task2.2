@@ -64,7 +64,7 @@ td {
 .second {
   background-color: #0000ff;
   width: 100%;
-  height: 110vh;
+  height: 85vh;
 }
 
 /* .third {
@@ -81,16 +81,16 @@ td {
   margin: 20px;
   margin-right: 10px;
   padding: 0;
-  height: 100vh;
+  height: 80vh;
 }
 
 .table3 {
   border-spacing: 0px;
   width: 100%;
-  height: 100vh;
+  height: 80vh;
 }
 .thing3_block1 {
-  height: 87vh;
+  height: 64vh;
   width: 100%;
 }
 .thing3_block2 {
